@@ -1,0 +1,12 @@
+{
+  "name": "air-nike--scss",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "sass": "sass --watch assets/scss:assets/css",
+    "sass:build": "sass assets/scss:assets/css"
+  },
+  "devDependencies": {
+    "sass": "^1.71.1"
+  }
+}
